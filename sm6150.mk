@@ -105,10 +105,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     DeviceAsWebcam
 
-# Device-specific settings
-PRODUCT_PACKAGES += \
-    XiaomiParts
-
 # Display
 PRODUCT_PACKAGES += \
     android.hardware.graphics.composer@2.4-service \
